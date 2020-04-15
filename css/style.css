@@ -44,9 +44,9 @@ a:hover {
 
 #banner {
    width: 53%;
-   height: 78px;
-   background: url("../images/logo.png") no-repeat center/cover;
-   margin: 80px auto 0;
+   height: 100px;
+   background: url("../images/logo.png") no-repeat center/contain;
+   margin: 90px auto 0;
 }
 
 #zen-summary {
@@ -183,7 +183,7 @@ a:hover {
 
 #sidebar #wrapper {
    width: 65%;
-   margin: 85px auto 0 90px;
+   margin: 100px auto 0 100px;
 }
 
 #design-selection h3,

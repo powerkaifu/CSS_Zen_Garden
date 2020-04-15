@@ -19,7 +19,7 @@ particlesJS(
          // 粒子數量控制
          number: {
             //數量 0 ~ 600
-            value: 40,
+            value: 70,
             // 密度，越小越密集
             density: {
                enable: true,
